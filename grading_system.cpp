@@ -1,4 +1,4 @@
-//a program for a grading system
+// program for a grading system
 
 #include <iostream>
 using namespace std;
