@@ -31,7 +31,7 @@ int main(){
     }
 
     else {
-        cout<<"FAIL!!"<<endl;
+        cout<<"FAIL!"<<endl;
     }
 
     switch(category){
