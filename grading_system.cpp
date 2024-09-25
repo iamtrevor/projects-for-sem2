@@ -7,11 +7,12 @@ int main(){
     float score1, score2, score3, average;
     int category; 
     
+    //prompting the user for grades
     cout<<"Please three students should enter their geades"<<endl;
     cin>> score1, score2, score3;
 
     //get the average score
-    average = score1 + score2 + score3 / 3; 
+    average = (score1 + score2 + score3) / 3; 
     cout<<"the average score is "<<average<<endl;
 
     //if statements to determine grade
