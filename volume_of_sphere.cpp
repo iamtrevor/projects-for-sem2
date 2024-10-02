@@ -1,4 +1,4 @@
-// a program to find the volume of a sphere
+// a program to find the volume of  sphere
 #include <iostream>
 using namespace std; 
 
