@@ -1,4 +1,4 @@
-//  program to calculate volume & surface area
+// a program to calculate volume and surface area
 
 #include <iostream>
 using namespace std;
@@ -23,7 +23,7 @@ class cylinder{
     }
 };
 
-int main(){
+int main(){ 
     
     cylinder cyl;
 

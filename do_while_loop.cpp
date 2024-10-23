@@ -1,4 +1,4 @@
-//do while loop to find the sum of numbers from 1-100
+//do while loop to find the sum of numbers From 1-100
 #include <iostream>
 using namespace std;
 
