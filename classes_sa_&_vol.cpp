@@ -1,4 +1,4 @@
-// a program to calculate volume & surface area
+//  program to calculate volume & surface area
 
 #include <iostream>
 using namespace std;
