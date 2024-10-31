@@ -28,7 +28,7 @@ public:
     }
 };
 int main(){
-    car cartype("lexus", "new");
+    car cartype("toyota", "corolla");
     cartype.price = 20000;
     
     cartype.mileage = 5000;
